@@ -6,7 +6,6 @@ public class AsciiValueOfChar {
         Scanner myobj = new Scanner(System.in);
         System.out.println("Enter the character to find ASCII Value ");
         char obj = myobj.next().charAt(0);
-       // int obj1 =(int)obj;
         System.out.println("the ASCII value of input char is : "+(int)obj);
 
 
