@@ -1,4 +1,4 @@
-package com.company.task0.introduction;
+package com.company.task0.string;
 import java.util.Scanner;
 public class CompareString {
     public static void main(String[] args) {
