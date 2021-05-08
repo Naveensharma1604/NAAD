@@ -1,4 +1,4 @@
-package com.company.task0.array;
+package com.company.task0.string;
 
 public class StringIsNumeric {
     public static void main(String[] args) {
